@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d009c7c8-65e4-41eb-a0f8-c0908c9a0218/resourceGroups/Lands/providers/Microsoft.Web/sites/lands",
+    "appService.deploySubpath": "build"
+}
